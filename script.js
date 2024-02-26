@@ -1,5 +1,4 @@
-function test(param) {
-  return param + " hello world this is my new project from github respositry";
+function test(a) {
+  return a
 }
-
-console.log (test("Hey Hey!"));
+console.log (test(1));
